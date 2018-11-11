@@ -1,0 +1,28 @@
+{
+  "name": "synchronous-javascript",
+  "version": "1.0.0",
+  "description": "use results of asynchronous http request with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skandar-benali/synchronous-javascript.git"
+  },
+  "keywords": [
+    "synchronous",
+    "http",
+    "request"
+  ],
+  "author": "skandar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skandar-benali/synchronous-javascript/issues"
+  },
+  "homepage": "https://github.com/skandar-benali/synchronous-javascript#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
