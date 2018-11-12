@@ -17,7 +17,7 @@ app.listen(3000, () => {
     });
 
     promise
-        .then(data => {
+        .then( () => {
         console.log('res 1 =>', firstName)
         // do the depending code here
     })
